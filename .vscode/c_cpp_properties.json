@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/duccuongvu/ws_moveit/install/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/duccuongvu/ws_moveit/install/pilz_industrial_motion_planner/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_visual_tools/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_task_constructor_visualization/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_task_constructor_demo/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_task_constructor_core/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_control_interface/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_simple_controller_manager/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_setup_assistant/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_setup_srdf_plugins/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_setup_core_plugins/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_setup_controllers/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_setup_app_plugins/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_setup_framework/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_servo/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_visualization/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_hybrid_planning/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_planning_interface/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_benchmarks/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_warehouse/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_robot_interaction/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_perception/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_move_group/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_planners_ompl/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_planning/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_ros_occupancy_map_monitor/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_kinematics/include/**",
+        "/home/duccuongvu/ws_moveit/install/chomp_motion_planner/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_core/include/**",
+        "/home/duccuongvu/ws_moveit/install/srdfdom/include/**",
+        "/home/duccuongvu/ws_moveit/install/rviz_marker_tools/include/**",
+        "/home/duccuongvu/ws_moveit/install/rosparam_shortcuts/include/**",
+        "/home/duccuongvu/ws_moveit/install/moveit_task_constructor_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/duccuongvu/mujoco_ros2_interface/src/mujoco_ros2_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
