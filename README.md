@@ -26,7 +26,6 @@ The code in this repository is intended as a starting point for integrating MuJo
 ## Requirements
 
 - MuJoCo 3.x installed (headers and shared libraries).
-- A valid MuJoCo license (if your MuJoCo version requires one).
 - ROS 2 (e.g., Humble/Galactic/Foxy — package uses generic rclcpp APIs).
 - System packages: `libglfw3`/`libglfw3-dev` (GLFW), standard build tools.
 
